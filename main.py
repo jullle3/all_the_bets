@@ -1,12 +1,9 @@
 import hashlib
 import json
-from csv import excel
 
 import requests
 import pprint as pp
 from datetime import datetime, timedelta
-
-#project_path = "C:/Users/Julian/PycharmProjects/league-of-legends-statistics/"
 
 
 headers = {
@@ -212,4 +209,3 @@ def pexit(s):
 debug = False
 if __name__ == "__main__":
     scrape_all_the_bets()
-#    testing()
