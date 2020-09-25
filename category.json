@@ -1,0 +1,815 @@
+{
+  "data": {
+    "widgets": [
+      {
+        "key": "sportsbook.category.live-and-upcoming",
+        "type": "EventsTableMasterDetail",
+        "version": "v1",
+        "data": {
+          "data": {
+            "key": "category.PhaseAndDate",
+            "items": [
+              {
+                "labelType": "String",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Live-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0--0--",
+                  "eventPhase": "Live",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Live-*-*-*-*",
+                "label": "Live",
+                "badge": "7",
+                "slug": "esports",
+                "visibleCount": 7,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "DateTime",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Prematch-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0-esports-0-2020-09-24 22:00:00-2020-09-25 21:59:59",
+                  "eventPhase": "Prematch",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "slug": "esports",
+                  "minutesFromStartTime": 0,
+                  "startsOnOrAfter": "2020-09-24T22:00:00Z",
+                  "startsBefore": "2020-09-25T21:59:59Z",
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Prematch-esports-2020-09-24 22:00:00-2020-09-25 21:59:59-*",
+                "label": "2020-09-24T22:00:00Z",
+                "badge": "1",
+                "slug": "esports",
+                "visibleCount": 1,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "DateTime",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Prematch-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0-esports-0-2020-09-25 22:00:00-2020-09-26 21:59:59",
+                  "eventPhase": "Prematch",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "slug": "esports",
+                  "minutesFromStartTime": 0,
+                  "startsOnOrAfter": "2020-09-25T22:00:00Z",
+                  "startsBefore": "2020-09-26T21:59:59Z",
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Prematch-esports-2020-09-25 22:00:00-2020-09-26 21:59:59-*",
+                "label": "2020-09-25T22:00:00Z",
+                "badge": "13",
+                "slug": "esports",
+                "visibleCount": 13,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "DateTime",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Prematch-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0-esports-0-2020-09-26 22:00:00-2020-09-27 21:59:59",
+                  "eventPhase": "Prematch",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "slug": "esports",
+                  "minutesFromStartTime": 0,
+                  "startsOnOrAfter": "2020-09-26T22:00:00Z",
+                  "startsBefore": "2020-09-27T21:59:59Z",
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Prematch-esports-2020-09-26 22:00:00-2020-09-27 21:59:59-*",
+                "label": "2020-09-26T22:00:00Z",
+                "badge": "10",
+                "slug": "esports",
+                "visibleCount": 10,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "DateTime",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Prematch-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0-esports-0-2020-09-27 22:00:00-2020-09-28 21:59:59",
+                  "eventPhase": "Prematch",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "slug": "esports",
+                  "minutesFromStartTime": 0,
+                  "startsOnOrAfter": "2020-09-27T22:00:00Z",
+                  "startsBefore": "2020-09-28T21:59:59Z",
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Prematch-esports-2020-09-27 22:00:00-2020-09-28 21:59:59-*",
+                "label": "2020-09-27T22:00:00Z",
+                "badge": "4",
+                "slug": "esports",
+                "visibleCount": 4,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "DateTime",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Prematch-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0-esports-0-2020-09-28 22:00:00-2020-09-29 21:59:59",
+                  "eventPhase": "Prematch",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "slug": "esports",
+                  "minutesFromStartTime": 0,
+                  "startsOnOrAfter": "2020-09-28T22:00:00Z",
+                  "startsBefore": "2020-09-29T21:59:59Z",
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Prematch-esports-2020-09-28 22:00:00-2020-09-29 21:59:59-*",
+                "label": "2020-09-28T22:00:00Z",
+                "badge": "3",
+                "slug": "esports",
+                "visibleCount": 3,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "DateTime",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-Prematch-1-119--22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632--4-0-esports-0-2020-09-29 22:00:00-2020-09-30 21:59:59",
+                  "eventPhase": "Prematch",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612",
+                    "10278",
+                    "17151",
+                    "16206",
+                    "14425",
+                    "21566",
+                    "14393",
+                    "16207",
+                    "15872",
+                    "22616",
+                    "22618",
+                    "15042",
+                    "15632"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "slug": "esports",
+                  "minutesFromStartTime": 0,
+                  "startsOnOrAfter": "2020-09-29T22:00:00Z",
+                  "startsBefore": "2020-09-30T21:59:59Z",
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-*-22612,10278,17151,16206,14425,21566,14393,16207,15872,22616,22618,15042,15632-4-Prematch-esports-2020-09-29 22:00:00-2020-09-30 21:59:59-*",
+                "label": "2020-09-29T22:00:00Z",
+                "badge": "1",
+                "slug": "esports",
+                "visibleCount": 1,
+                "entityPopularity": 0
+              }
+            ]
+          },
+          "referenceId": "e57394f4-1815-4fd0-869e-74a6508707e7"
+        }
+      },
+      {
+        "key": "sportsbook.category.competition",
+        "type": "EventsTableMasterDetail",
+        "version": "v1",
+        "data": {
+          "data": {
+            "key": "category.Competition",
+            "items": [
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-188-22612--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22612"
+                  ],
+                  "regionIds": [
+                    "188"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-188-22612-4-*-*-*-*-*",
+                "label": "CS GO: Dreamhack Open Fall",
+                "badge": "2",
+                "slug": "esports/counter-strike-go/cs-go-dreamhack-open-fall",
+                "visibleCount": 2,
+                "entityPopularity": 44
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-166-10278--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "10278"
+                  ],
+                  "regionIds": [
+                    "166"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-166-10278-4-*-*-*-*-*",
+                "label": "LoL: World Championship",
+                "badge": "15",
+                "slug": "esports/league-of-legends/lol-world-championship",
+                "visibleCount": 15,
+                "entityPopularity": 23
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-188-17151--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "17151"
+                  ],
+                  "regionIds": [
+                    "188"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-188-17151-4-*-*-*-*-*",
+                "label": "CS GO: ESL Pro League LatAm",
+                "badge": "1",
+                "slug": "esports/counter-strike-go/cs-go-esl-pro-league-latam",
+                "visibleCount": 1,
+                "entityPopularity": 14
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-188-16206--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "16206"
+                  ],
+                  "regionIds": [
+                    "188"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-188-16206-4-*-*-*-*-*",
+                "label": "CS GO: ESL Pro League North America",
+                "badge": "1",
+                "slug": "esports/counter-strike-go/cs-go-esl-pro-league-north-america",
+                "visibleCount": 1,
+                "entityPopularity": 9
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-172-14425--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "14425"
+                  ],
+                  "regionIds": [
+                    "172"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-172-14425-4-*-*-*-*-*",
+                "label": "Dota2: Pit League",
+                "badge": "1",
+                "slug": "esports/dota-2/dota2-pit-league",
+                "visibleCount": 1,
+                "entityPopularity": 5
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-192-21566--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "21566"
+                  ],
+                  "regionIds": [
+                    "192"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-192-21566-4-*-*-*-*-*",
+                "label": "FIFA: eSports Battle",
+                "badge": "1",
+                "slug": "esports/fifa/fifa-esports-battle",
+                "visibleCount": 1,
+                "entityPopularity": 5
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-172-14393--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "14393"
+                  ],
+                  "regionIds": [
+                    "172"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-172-14393-4-*-*-*-*-*",
+                "label": "Dota2: BTS",
+                "badge": "4",
+                "slug": "esports/dota-2/dota2-bts",
+                "visibleCount": 4,
+                "entityPopularity": 3
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-188-16207--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "16207"
+                  ],
+                  "regionIds": [
+                    "188"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-188-16207-4-*-*-*-*-*",
+                "label": "CS GO: ESL Pro League Europe",
+                "badge": "4",
+                "slug": "esports/counter-strike-go/cs-go-esl-pro-league-europe",
+                "visibleCount": 4,
+                "entityPopularity": 2
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-188-15872--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "15872"
+                  ],
+                  "regionIds": [
+                    "188"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-188-15872-4-*-*-*-*-*",
+                "label": "CS GO: Finnish Esports League",
+                "badge": "2",
+                "slug": "esports/counter-strike-go/cs-go-finnish-esports-league",
+                "visibleCount": 2,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-188-22616--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22616"
+                  ],
+                  "regionIds": [
+                    "188"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-188-22616-4-*-*-*-*-*",
+                "label": "CS GO: NumberOne",
+                "badge": "1",
+                "slug": "esports/counter-strike-go/cs-go-numberone",
+                "visibleCount": 1,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": true,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-172-22618--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "22618"
+                  ],
+                  "regionIds": [
+                    "172"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-172-22618-4-*-*-*-*-*",
+                "label": "Dota2: ESL One Germany",
+                "badge": "1",
+                "slug": "esports/dota-2/dota2-esl-one-germany",
+                "visibleCount": 1,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-219-15042--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "15042"
+                  ],
+                  "regionIds": [
+                    "219"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-219-15042-4-*-*-*-*-*",
+                "label": "OW: Contenders",
+                "badge": "1",
+                "slug": "esports/overwatch/ow-contenders",
+                "visibleCount": 1,
+                "entityPopularity": 0
+              },
+              {
+                "labelType": "CompetitionName",
+                "hasLiveStreaming": false,
+                "hasLiveEvents": false,
+                "widgetRequest": {
+                  "_Id": "EventsTable-v1-802-All-1-119-245-15632--4-0--0--",
+                  "eventPhase": "All",
+                  "pageNumber": 1,
+                  "categoryIds": [
+                    "119"
+                  ],
+                  "competitionIds": [
+                    "15632"
+                  ],
+                  "regionIds": [
+                    "245"
+                  ],
+                  "maxMarketCount": 4,
+                  "maxEventCount": 0,
+                  "minutesFromStartTime": 0,
+                  "segmentId": "802",
+                  "eventSortBy": "StartDate",
+                  "brandId": 22,
+                  "language": "da",
+                  "userDevice": "NotSet",
+                  "includeSkeleton": true,
+                  "excludedProperties": "NoExclusion"
+                },
+                "id": "events-table/802-119-245-15632-4-*-*-*-*-*",
+                "label": "KoG: King Pro League",
+                "badge": "5",
+                "slug": "esports/king-of-glory/kog-king-pro-league",
+                "visibleCount": 5,
+                "entityPopularity": 0
+              }
+            ]
+          },
+          "referenceId": "e57394f4-1815-4fd0-869e-74a6508707e7"
+        }
+      }
+    ],
+    "configurationKey": "sportsbook.category"
+  },
+  "referenceId": "e57394f4-1815-4fd0-869e-74a6508707e7"
+}
